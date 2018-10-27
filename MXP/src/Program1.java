@@ -7,6 +7,7 @@ public class Program1 {
 		System.out.println("PQR  and MXV");
 		System.out.println("TYU");
 		//Here I have updated
+		System.out.println("MMLLL");
 	}
 
 }
